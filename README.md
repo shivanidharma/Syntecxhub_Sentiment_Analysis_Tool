@@ -78,6 +78,4 @@ Predicted Sentiment: negative
 
 
 
-## Author
-
 Your Name
